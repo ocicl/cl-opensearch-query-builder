@@ -7,3 +7,4 @@ Common Lisp implementation of a builder for the OpenSearch query DSL
 | version | 0.0.9                                                                           |
 | systems | cl-opensearch-query-builder                                                      |
 |---------+----------------------------------------------------------------------------------|
+ 
